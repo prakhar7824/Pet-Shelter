@@ -77,4 +77,7 @@ Thumbs.db
 
 # Misc
 .vercel
-.netlify 
+.netlify
+
+# Project documentation
+PROJECT_DESCRIPTION.md 
